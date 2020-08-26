@@ -1,0 +1,25 @@
+new Kunden(1,Carlina,Liddicoat,cliddicoat0@feedburner.com,Female,125.71.238.36
+new Kunden( 2,Paddy,McPake,pmcpake1@xing.com,Male,255.254.183.248
+new Kunden( 3,Godard,Tesyro,gtesyro2@upenn.edu,Male,220.93.230.52
+new Kunden( 4,Annmarie,Seegar,aseegar3@friendfeed.com,Female,73.96.76.72
+new Kunden( 5,Bronny,Pashenkov,bpashenkov4@constantcontact.com,Male,44.248.159.15
+new Kunden( 6,Connie,Malan,cmalan5@wired.com,Male,91.15.133.43
+new Kunden( 7,Clarie,Texton,ctexton6@lycos.com,Female,220.205.14.182
+new Kunden( 8,Elana,Howton,ehowton7@psu.edu,Female,81.236.206.161
+new Kunden( 9,Katuscha,Story,kstory8@ihg.com,Female,189.63.6.247
+new Kunden( 10,Meaghan,Mewton,mmewton9@businessinsider.com,Female,208.158.112.67
+new Kunden( 11,Flin,Bennedick,fbennedicka@wikia.com,Male,34.119.87.214
+new Kunden( 12,Genia,Ledner,glednerb@mac.com,Female,184.71.120.211
+new Kunden( 13,Rubia,Slyne,rslynec@cnet.com,Female,107.101.228.219
+new Kunden( 14,Arline,Comelini,acomelinid@gnu.org,Female,232.38.95.90
+new Kunden( 15,Erhart,Ellins,eellinse@umn.edu,Male,78.68.124.99
+new Kunden( 16,Lisetta,Aronin,laroninf@nbcnews.com,Female,38.179.140.238
+new Kunden( 17,Hilda,Alves,halvesg@desdev.cn,Female,69.196.246.46
+new Kunden( 18,Lurette,Windas,lwindash@imageshack.us,Female,127.0.212.230
+new Kunden( 19,Tersina,Halbord,thalbordi@weibo.com,Female,38.123.201.36
+new Kunden( 20,Saraann,Wadeling,swadelingj@soundcloud.com,Female,203.12.179.50
+new Kunden( 21,Alexine,Tuppeny,atuppenyk@twitter.com,Female,112.76.135.252
+new Kunden( 22,Eadmund,Fonte,efontel@ft.com,Male,179.33.63.62
+new Kunden( 23,Gilligan,Chittleburgh,gchittleburghm@unc.edu,Female,78.200.57.181
+new Kunden( 24,Emmott,Bradley,ebradleyn@reuters.com,Male,231.177.104.167
+new Kunden( 25,Andreas,Player,aplayero@infoseek.co.jp,Male,193.113.20.206
